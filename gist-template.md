@@ -41,4 +41,4 @@ Because there are no `?` in this regex, this is a greedy expression. Basically, 
 
 ## Author
 
-The author for this is Safwan Islam. GitHub link: https://github.com/saislam10
+The author for this is Safwan Islam. GitHub link: https://github.com/saislam10; Gist Deployed Link: https://gist.github.com/saislam10/b4f5ae32615782cd8706b11fa4ca3d1c/edit 
